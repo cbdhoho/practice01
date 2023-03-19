@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System
+using System;
 
 public class Exercise03 : MonoBehaviour
 {
+    
     [SerializeField]
     private int x = 10;
 
